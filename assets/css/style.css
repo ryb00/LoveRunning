@@ -45,7 +45,7 @@ h1{
     list-style-type: none;}
 
 #menu > li { 
-    margin: 0 0 0 1em;
+    margin: 0 0 0 0;
 }
 
 .active {
