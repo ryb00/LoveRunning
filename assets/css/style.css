@@ -158,10 +158,6 @@ hr {
     max-height: 300px;
 }
 
-#benefits-image {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
 
 /* Hero image */
@@ -200,6 +196,10 @@ hr {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+    #benefits-image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     
 
     /* Media query: tablets and larger (768px and up) */
