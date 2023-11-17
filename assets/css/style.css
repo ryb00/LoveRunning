@@ -142,7 +142,7 @@ hr {
     margin: 5px 0;
 }
 
-#reason > h2{
+#reason ~ h2{
     font-size: 280%;
     margin: auto 20px auto 20px;
 }
