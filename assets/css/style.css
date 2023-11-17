@@ -143,8 +143,8 @@ hr {
 }
 
 #reason ~ h2{
-    font-size: 280%;
-    margin: auto 20px auto 2000px;
+    font-size: 180%;
+    margin: auto 20px auto 20px;
 }
 
 #circle-cover-bg {
