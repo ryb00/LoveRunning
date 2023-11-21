@@ -249,6 +249,15 @@ hr {
         /* Override the heading colour set in general styles */
         color: #fafafa;
     }
+    /* Gallery page */
+    #photos img {
+        width: 100%;
+        line-height: 1em;
+    }
+
+    #photos {
+        line-height: 0;
+    }
 
     /* Media query: tablets and larger (768px and up) */
     @media screen and (min-width: 992px) {
